@@ -9,5 +9,3 @@ Dashboard analityczny stworzony w Power BI Desktop.
 - Certificates by Level
 - Hours by Topic
 - Hours by Day and Type
-
-## Plik
